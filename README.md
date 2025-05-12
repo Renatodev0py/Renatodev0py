@@ -45,6 +45,4 @@
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animations/main/wave.svg" alt="animated wave" />
 
-###
